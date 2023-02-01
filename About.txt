@@ -4,11 +4,17 @@
 <title>
 Peter S About
 </title>
+
 <h1>
 About Peter Scrandis
 </h1>
+
 <p>
 About me page
+</p>
+
+<p>
+<a href="Home.htm"> Home Page </a>
 </p>
 
 </body>
